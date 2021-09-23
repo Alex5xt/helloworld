@@ -1,10 +1,13 @@
 #include <iostream>
 
-using namespace std;
+void helloworld 
+{
+    std::cout << "hello world";
+}
 
 int main()
 {
-    cout << "hello world";
+    helloworld();
 
     return 0;
 }
